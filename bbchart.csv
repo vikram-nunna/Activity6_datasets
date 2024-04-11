@@ -1,11 +1,11 @@
 Country,Life_expectancy,Fertility,Population,Region
-United States,78.5,1.70,326687501,North America
-United Kingdom,81.4,1.70,66460344,Europe
-China,76.7,1.70,1392730000,Asia
-India,69.4,2.20,1352617328,Asia
-Japan,84.2,1.40,126529100,Asia
-Germany,81.0,1.60,82905782,Europe
-France,82.5,1.90,66977107,Europe
-"Congo, Dem. Rep.",60.4,5.90,84068091,Africa
-Nigeria,54.3,5.40,195874740,Africa
-South Africa,63.9,2.40,57779622,Africa
+United States,78.5,1.70,32.66,North America
+United Kingdom,81.4,1.70,66.4,Europe
+China,76.7,1.70,139.2,Asia
+India,69.4,2.20,133.5,Asia
+Japan,84.2,1.40,12.6,Asia
+Germany,81.0,1.60,82.9,Europe
+France,82.5,1.90,66.9,Europe
+"Congo, Dem. Rep.",60.4,5.90,84.0,Africa
+Nigeria,54.3,5.40,19.5,Africa
+South Africa,63.9,2.40,57.7,Africa
