@@ -1,4 +1,4 @@
-Country,Life expectancy,Fertility,Population,Region
+Country,Life_expectancy,Fertility,Population,Region
 United States,78.5,1.70,326687501,North America
 United Kingdom,81.4,1.70,66460344,Europe
 China,76.7,1.70,1392730000,Asia
